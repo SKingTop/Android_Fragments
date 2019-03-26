@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="welcomeText">Вас приветствует система быстрого анкетирования</string>
+    <string name="beginButton">Начать</string>
+    <string name="exit">Выход</string>
+    <string name="exit_desc">Выйти из приложения?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="spinner_question">Страна проживания</string>
+    <string name="radio_question">Ваше хобби</string>
+    <string name="radio_answer_1">Видеоигры</string>
+    <string name="radio_answer_2">Спорт</string>
+    <string name="radio_answer_3">Танцы</string>
+    <string name="radio_answer_4">Кино</string>
+    <string name="checkbox_question">Вам есть 18?</string>
+    <string name="checkbox_text">Да</string>
+    <string name="checkbox_yes">Да</string>
+    <string name="checkbox_no">Нет</string>
+    <string name="one_text">Страна: </string>
+    <string name="two_text">Хобби:</string>
+    <string name="three_text">"18 есть?:</string>
+    <string name="br"> \n </string>
+    <string name="назад">Назад</string>
+    <string name="далее">Далее</string>
+    <string name="спасибо">Спасибо что воспользовались нашей системой!</string>
+    <string name="заново">Заново</string>
+
+    <string-array name="answers_arrays">
+        <item>Казахстан</item>
+        <item>Россия</item>
+        <item>США</item>
+        <item>Япония</item>
+        <item>Италия</item>
+        <item>Лондон</item>
+    </string-array>
+</resources>
